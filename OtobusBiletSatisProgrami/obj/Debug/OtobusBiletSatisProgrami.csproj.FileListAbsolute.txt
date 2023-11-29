@@ -1,0 +1,25 @@
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.exe.config
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.exe
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.pdb
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.AssemblyReference.cache
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.Properties.Resources.resources
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.GenerateResource.cache
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.CoreCompileInputs.cache
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.exe
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.pdb
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.anaForm.resources
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.yoneticiGiris.resources
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.yoneticiForm.resources
+C:\Users\bener\OneDrive\Masaüstü\OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.biletAlma.resources
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.AssemblyReference.cache
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.anaForm.resources
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.biletAlma.resources
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.yoneticiForm.resources
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.yoneticiGiris.resources
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.GenerateResource.cache
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.csproj.CoreCompileInputs.cache
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.exe
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\obj\Debug\OtobusBiletSatisProgrami.pdb
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.exe.config
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.exe
+E:\ C# \OtobusBiletSatisProgrami\OtobusBiletSatisProgrami\bin\Debug\OtobusBiletSatisProgrami.pdb
